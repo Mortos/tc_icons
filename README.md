@@ -1,5 +1,5 @@
 ## TrinityCore Icons Recolored
-![Sample](http://)
+![Sample](sample.jpg)
 
 As simple as that, this repository contains both the original TrinityCore icons and five other new icons recolored, all of them include the sizes:
 
@@ -19,6 +19,8 @@ The color of the icons are:
 * Cyan
 * Caci
 * Orange
+
+Notice that this is something I did a while ago in my spare time and wanted to share it, so don't expect the most polished quality.
 
 ## Copyright
 As with the original TC source this is licensed under GPL 2.0, for further information please read file [LICENSE](LICENSE)
