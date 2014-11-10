@@ -23,7 +23,7 @@ The color of the icons are:
 Notice that this is something I did a while ago in my spare time and wanted to share it, so don't expect the most polished quality.
 
 ## Copyright
-As with the original TC source this is licensed under GPL 2.0, for further information please read file [LICENSE](LICENSE)
+As with the original TC source this is licensed under GPL 2.0, for further information please read file [LICENSE](LICENSE), feel free to [fork](https://github.com/kenpb/tc_icon/fork) or [download](https://github.com/kenpb/tc_icons/archive/master.zip) it and do as you want.
 
 ## Links
 
