@@ -10,16 +10,6 @@ As simple as that, this repository contains both the original TrinityCore icons 
 * 96x96
 * 128x128
 
-The color of the icons are:
-
-* Red
-* Blue
-* Purple
-* Green
-* Cyan
-* Caci
-* Orange
-
 Notice that this is something I did a while ago in my spare time and wanted to share it, so don't expect the most polished quality.
 
 ## Copyright
